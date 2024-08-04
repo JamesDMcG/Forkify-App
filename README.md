@@ -1,2 +1,3 @@
-# Forkify-App
-A Recipe journal and search engine
+#Forkify Project
+
+Recipe application with custon recipe uploads.
