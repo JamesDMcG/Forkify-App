@@ -17,3 +17,19 @@ Forkify-App/
 ├── index.html        # Main HTML file
 └── package.json      # Dependencies and scripts
 ```
+How to run: 
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JamesDMcG/Forkify-App.git
+   ```
+2. Install dependencies:
+   ```bash
+   cd Forkify-App
+   npm install
+   ```
+3. Start the app:
+   ```bash
+   npm start
+   ```
+   Access [localhost:3000](http://localhost:3000) in your browser.
